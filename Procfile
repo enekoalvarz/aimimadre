@@ -1,1 +1,1 @@
-web: gunicorn MammaMia.wsgi
+web: gunicorn MammaMia.wsgi:application
